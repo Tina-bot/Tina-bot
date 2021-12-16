@@ -1,11 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Tina!🌷</h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+
+<p align="left">
+
 <h3 align="center">A passionate Backend developer from Argentina</h3>
-<img src="https://images.unsplash.com/photo-1462332420958-a05d1e002413?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1807&q=80"> </img>
+
+<p align="left">
 
 - 🔭 I’m currently working on **a videogame in Python**
 
+<p align="left">
+
 - 🌱 I’m currently learning **Python ❤️**
+
+<p align="left">
 
 
 <h3 align="left">Languages and Tools:</h3>
