@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Tina!☄️</h1>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://croissancenumerique.ca/wp-content/uploads/2020/07/BackgroundLaptop.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <h3 align="center">A passionate Backend developer from Argentina</h3>
 
