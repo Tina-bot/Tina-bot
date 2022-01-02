@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Backend developer from Argentina</h3>
 
-- 🔭 I’m currently working on **a videogame in Python**
+- 🔭 I’m currently working on **a videogame**
 
 
 - 🌱 I’m currently learning **Python ❤️**
