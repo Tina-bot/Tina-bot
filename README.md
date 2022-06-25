@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
-- 🔭 I’m currently working on *[Shop-cart](https://github.com/Tina-bot/Shop-Cart-Vue)*
+- 🔭 I’m currently working on *[Shop-Cart-VueCLI](https://github.com/Tina-bot/Shop-Cart-VueCLI)*
 
 
 - 🌱 I’m currently learning **Vue**
