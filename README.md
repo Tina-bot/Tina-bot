@@ -3,12 +3,9 @@
 
 <img src="https://user-images.githubusercontent.com/72955349/174216427-8408e1f7-8055-4be3-a7a3-1846139612ee.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<h3 align="center">A passionate Full Stack Developer from Argentina</h3>
+<h3 align="center">A Full-Stack Developer from Argentina</h3>
 
-- 🔭 I’m currently working on *[Shop-Cart-VueCLI](https://github.com/Tina-bot/Shop-Cart-VueCLI)*
-
-
-- 🌱 I’m currently learning **Vue**
+- 🌱 I’m currently learning **React**
 
 
 <h3 align="left">Languages and Tools:</h3>
